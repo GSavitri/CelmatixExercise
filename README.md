@@ -58,15 +58,20 @@ Steps to Install and Configure Maven on Mac Machine:
 
 General Info:
 Please clone the project from here:   https://github.com/GSavitri/ToDoExercise.git  
-The Test Suite validates following requirements:
-R1: Enter an item with the text “purchase shampoo”
-R2: Verify the text appears in the list of to-dos
-R3: Enter two additional items, “wash cat” and “purchase band-aids”
-R4: Verify the new items appear in the list
-R5: Verify the number at the left side of the list footer correctly indicates 3 		      items
-R6: Check the box next to “wash cat” (marking it complete) and verify that the total in the list footer correctly indicates 2 items
-R7: Click “clear completed” and verify that the “wash cat” item is no longer present in the list
-R8: Add more items (as many as you feel you need) to attempt to perform a code injection exploit on the application. (NOTE that it is expected that this application will not be vulnerable.)
+•	R1: Enter an item with the text “purchase shampoo”
+•	R2: Verify the text appears in the list of to-dos
+•	R3: Enter two additional items, “wash cat” and “purchase band-aids”
+•	R4: Verify the new items appear in the list
+•	R5: Verify the number at the left side of the list footer correctly indicates 3 items
+•	R6: Check the box next to “wash cat” (marking it complete) and verify that the total in the list footer correctly indicates 2 items
+•	R7: Click “clear completed” and verify that the “wash cat” item is no longer present in the list
+•	R8: Add more items (as many as you feel you need) to attempt to perform a code injection exploit on the application. (NOTE that it is expected that this application will not be vulnerable.)
+
+
+
+
+
+
 
 
 		
